@@ -1,4 +1,4 @@
-hi
+h
 
 ## Vue 2 has reached End of Life
 
